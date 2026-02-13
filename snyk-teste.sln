@@ -1,0 +1,29 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.2.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = ".vscode", ".vscode", "{C2579004-3DCB-D3E2-08DC-728321549DFE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SnykTest", ".vscode\SnykTest.csproj", "{CCBB78B1-82C2-EBF4-1C6F-3CDF20B0D843}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CCBB78B1-82C2-EBF4-1C6F-3CDF20B0D843}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CCBB78B1-82C2-EBF4-1C6F-3CDF20B0D843}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CCBB78B1-82C2-EBF4-1C6F-3CDF20B0D843}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CCBB78B1-82C2-EBF4-1C6F-3CDF20B0D843}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{CCBB78B1-82C2-EBF4-1C6F-3CDF20B0D843} = {C2579004-3DCB-D3E2-08DC-728321549DFE}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E9D71D1D-201C-4D85-971D-62C95FCA85F8}
+	EndGlobalSection
+EndGlobal
